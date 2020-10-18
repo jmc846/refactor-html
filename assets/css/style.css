@@ -48,6 +48,18 @@ body {
 .header div ul {
     list-style-type: none;
 }
+.nav {
+    list-style-type: none;
+    margin: 10;
+    padding:0 25px 0 25px;
+    font-size:x-large;
+    text-align: center;
+  }
+  .nav ul li{
+display: inline-block;
+padding: 0 25px 0 25px;
+
+  }
 
 .header div ul li {
     display: inline-block;
